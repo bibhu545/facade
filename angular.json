@@ -119,6 +119,11 @@
           }
         }
       }
-    }},
-  "defaultProject": "facade"
+    }
+  },
+  "defaultProject": "facade",
+  "cli": {
+    "analytics": false,
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
